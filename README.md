@@ -1,3 +1,2 @@
 # Livestore
-A whole appstore for Livestore!
-Compatible with altsource!
+A whole appstore for ios!
