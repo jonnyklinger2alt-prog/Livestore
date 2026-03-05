@@ -9,6 +9,146 @@
   "featuredApps": [],
   "apps": [
     {
+      "name": "Rainbow diamond clicker!",
+      "bundleIdentifier": "com.m3g6chmw8s.ucj1bld7x8",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "A classic.",
+      "iconURL": "https://i.imgur.com/doNT0By.png",
+      "tintColor": "#6156e2",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://jonnyklinger2alt-prog.github.io/RainbowDiamondClicker.html",
+          "size": 1000000,
+          "version": "1",
+          "buildVersion": "",
+          "date": "2026-03-05T22:38:00-06:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Diep.io",
+      "bundleIdentifier": "com.nc962cqgnz.18nr5i75ei",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "A remake of diep.io.",
+      "iconURL": "https://i.imgur.com/1Xiep2c.png",
+      "tintColor": "#6156e2",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://jonnyklinger2alt-prog.github.io/diep.html",
+          "size": 1000000,
+          "version": "1",
+          "buildVersion": "",
+          "date": "2026-03-05T22:35:00-06:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "PVZ",
+      "bundleIdentifier": "com.t7vvkqmshj.hucmrvutjj",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "A remake of Plants VS. Zombies",
+      "iconURL": "https://i.imgur.com/vWS83d8.png",
+      "tintColor": "#6156e2",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://jonnyklinger2alt-prog.github.io/PVZ.html",
+          "size": 1000000,
+          "version": "1",
+          "buildVersion": "",
+          "date": "2026-03-05T22:34:00-06:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Slither.io",
+      "bundleIdentifier": "com.ykmp4e7vbm.ydkh1nmob5",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "A remake of slither.io",
+      "iconURL": "https://i.imgur.com/AJcZhjj.png",
+      "tintColor": "#6156e2",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1",
+          "date": "2026-03-05T21:26:00-06:00",
+          "localizedDescription": null,
+          "downloadURL": "https://jonnyklinger2alt-prog.github.io/slither.html",
+          "size": 1000000,
+          "buildVersion": "",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Minecraft-ish MMO",
+      "bundleIdentifier": "com.6yeroi3urp.0s3hsoh4hk",
+      "marketplaceID": "",
+      "developerName": "Example Develope",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "Online Minecraft-ish chaos.",
+      "iconURL": "https://i.imgur.com/1nYpxER.png",
+      "tintColor": "#6156e2",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1",
+          "date": "2026-03-05T21:24:00-06:00",
+          "localizedDescription": null,
+          "downloadURL": "https://jonnyklinger2alt-prog.github.io/MCMMO.html",
+          "size": 1000000,
+          "buildVersion": "",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
       "name": "3D racing",
       "bundleIdentifier": "com.7jvugijvwd.l6wiptqhnc",
       "marketplaceID": "",
@@ -21,12 +161,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://jonnyklinger2alt-prog.github.io/Racing.html",
-          "size": 1000000,
           "version": "1",
-          "buildVersion": "",
           "date": "2026-03-05T13:34:00-06:00",
           "localizedDescription": null,
+          "downloadURL": "https://jonnyklinger2alt-prog.github.io/Racing.html",
+          "size": 1000000,
+          "buildVersion": "",
           "minOSVersion": null
         }
       ],
@@ -49,12 +189,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://jonnyklinger2alt-prog.github.io/Appel.html",
-          "size": 1000000,
           "version": "1",
-          "buildVersion": "",
           "date": "2026-03-05T13:32:00-06:00",
           "localizedDescription": null,
+          "downloadURL": "https://jonnyklinger2alt-prog.github.io/Appel.html",
+          "size": 1000000,
+          "buildVersion": "",
           "minOSVersion": null
         }
       ],
@@ -77,12 +217,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://jonnyklinger2alt-prog.github.io/MMO.html",
-          "size": 1000000,
           "version": "1",
-          "buildVersion": "",
           "date": "2026-03-05T13:29:00-06:00",
           "localizedDescription": null,
+          "downloadURL": "https://jonnyklinger2alt-prog.github.io/MMO.html",
+          "size": 1000000,
+          "buildVersion": "",
           "minOSVersion": null
         }
       ],
