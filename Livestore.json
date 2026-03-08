@@ -65,34 +65,6 @@
       "patreon": {}
     },
     {
-      "name": "Crystal seeker",
-      "bundleIdentifier": "com.vx4dkx439j.99jlhaykc6",
-      "marketplaceID": "",
-      "developerName": "Example Developer",
-      "subtitle": "An awesome app.",
-      "localizedDescription": "An awesome 3D platformer!",
-      "iconURL": "https://i.imgur.com/T2Nkll9.png",
-      "tintColor": "#6156e2",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "1",
-          "date": "2026-03-08T10:44:00-05:00",
-          "localizedDescription": null,
-          "downloadURL": "https://media.githubusercontent.com/media/jonnyklinger2alt-prog/Jonnyklinger2alt-prog.github.io/refs/heads/main/crystalseeker.html",
-          "size": 1000000,
-          "buildVersion": "",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
       "name": "DOWNGRADE 2",
       "bundleIdentifier": "com.roqbnfyiov.go2cu81cre",
       "marketplaceID": "",
