@@ -21,12 +21,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://jonnyklinger2alt-prog.github.io/PaperMinecraft.html",
-          "size": 1000000,
           "version": "1",
-          "buildVersion": "",
           "date": "2026-03-08T04:52:00-06:00",
           "localizedDescription": null,
+          "downloadURL": "https://jonnyklinger2alt-prog.github.io/PaperMinecraft.html",
+          "size": 1000000,
+          "buildVersion": "",
           "minOSVersion": null
         }
       ],
@@ -49,12 +49,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://jonnyklinger2alt-prog.github.io/qualio2.html",
-          "size": 1000000,
           "version": "1",
-          "buildVersion": "",
           "date": "2026-03-08T04:49:00-06:00",
           "localizedDescription": null,
+          "downloadURL": "https://jonnyklinger2alt-prog.github.io/qualio2.html",
+          "size": 1000000,
+          "buildVersion": "",
           "minOSVersion": null
         }
       ],
@@ -77,12 +77,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://jonnyklinger2alt-prog.github.io/crystalseeker.html",
-          "size": 1000000,
           "version": "1",
-          "buildVersion": "",
-          "date": "2026-03-08T04:44:00-06:00",
+          "date": "2026-03-08T10:44:00-05:00",
           "localizedDescription": null,
+          "downloadURL": "https://media.githubusercontent.com/media/jonnyklinger2alt-prog/Jonnyklinger2alt-prog.github.io/refs/heads/main/crystalseeker.html",
+          "size": 1000000,
+          "buildVersion": "",
           "minOSVersion": null
         }
       ],
