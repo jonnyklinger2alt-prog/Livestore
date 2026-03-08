@@ -9,6 +9,90 @@
   "featuredApps": [],
   "apps": [
     {
+      "name": "Paper Minecraft",
+      "bundleIdentifier": "com.20rdk33kku.tvqjwvcbai",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "Minecraft, but 2D",
+      "iconURL": "https://i.imgur.com/nUkj9p3.png",
+      "tintColor": "#6156e2",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://jonnyklinger2alt-prog.github.io/PaperMinecraft.html",
+          "size": 1000000,
+          "version": "1",
+          "buildVersion": "",
+          "date": "2026-03-08T04:52:00-06:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Qualio 2",
+      "bundleIdentifier": "com.y6c69dahx3.2a8p1suilt",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "A fun puzzle game!",
+      "iconURL": "https://i.imgur.com/Un2driS.png",
+      "tintColor": "#6156e2",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://jonnyklinger2alt-prog.github.io/qualio2.html",
+          "size": 1000000,
+          "version": "1",
+          "buildVersion": "",
+          "date": "2026-03-08T04:49:00-06:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Crystal seeker",
+      "bundleIdentifier": "com.vx4dkx439j.99jlhaykc6",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "An awesome 3D platformer!",
+      "iconURL": "https://i.imgur.com/T2Nkll9.png",
+      "tintColor": "#6156e2",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://jonnyklinger2alt-prog.github.io/crystalseeker.html",
+          "size": 1000000,
+          "version": "1",
+          "buildVersion": "",
+          "date": "2026-03-08T04:44:00-06:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
       "name": "DOWNGRADE 2",
       "bundleIdentifier": "com.roqbnfyiov.go2cu81cre",
       "marketplaceID": "",
@@ -21,12 +105,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://jonnyklinger2alt-prog.github.io/DOWNGRADE2.html",
-          "size": 1000000,
           "version": "1",
-          "buildVersion": "",
           "date": "2026-03-06T03:37:00-06:00",
           "localizedDescription": null,
+          "downloadURL": "https://jonnyklinger2alt-prog.github.io/DOWNGRADE2.html",
+          "size": 1000000,
+          "buildVersion": "",
           "minOSVersion": null
         }
       ],
