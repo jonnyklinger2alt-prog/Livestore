@@ -9,6 +9,34 @@
   "featuredApps": [],
   "apps": [
     {
+      "name": "Multiplayer test",
+      "bundleIdentifier": "com.xwp2c6w6y7.6wisdt11pn",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "An unfinished game dead by daylight like game by the creator of the livestore. Only really has multiplayer implemented.",
+      "iconURL": "https://i.imgur.com/cy22whi.jpeg",
+      "tintColor": "#6156e2",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://jonnyklinger2alt-prog.github.io/gam.html",
+          "size": 2400000,
+          "version": "1",
+          "buildVersion": "",
+          "date": "2026-04-29T12:11:00-05:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
       "name": "Paper Minecraft",
       "bundleIdentifier": "com.20rdk33kku.tvqjwvcbai",
       "marketplaceID": "",
